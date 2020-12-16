@@ -1,0 +1,28 @@
+Contact: Guangyan, loneoceans@gmail.com
+Project: lume1_fw3x_revb
+Date: 30 Jun 2020
+
+========= FABRICATION SPECIFICATIONS ========= 
+Layers 			2
+Material 		FR-4
+PCB Finished Thickness	1.6mm
+Finished Copper Weight	1oz
+Minimum Trace Width	6mil
+Minimum Spacing		6mil
+Minimum Via Drill	10mil (0.254mm)
+Minimum Annular Ring	5mil
+Via Process		Mix of Tented and Untented
+Number of Drills	149
+Silkscreen Min Width	4mil
+Silkscreen Colour	White
+Soldermask Colour	Red
+Surface Finish		ENIG 1u"
+Assembly		Only Top Side
+Components		33
+Unique BOM Items	20
+Solder Paste		Leaded Solder
+RoHS			Not Required
+Board Type		Individual Route-Out
+===============================================
+
+

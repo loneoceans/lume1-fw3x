@@ -1,0 +1,45 @@
+========================================================================================================================
+Pick and Place Locations
+========================================================================================================================
+File Design Information:
+
+Title:	    LUME1_FW3X_REVB
+Date:       30/Jun/2020
+Revision:   B
+Units used: mil
+Contact:    loneoceans@gmail.com
+
+Designator Comment               Layer       Footprint                Center-X(mil) Center-Y(mil) Rotation Description                               
+C1         220p                  TopLayer    0402_CAPACITOR           -238.192      35.433        90       ""                                        
+C2         0.1u                  TopLayer    0402_CAPACITOR           -141.732      -287.408      180      ""                                        
+C3         0.1u                  TopLayer    0402_CAPACITOR           -153.543      129.924       360      ""                                        
+C4         0.1u                  TopLayer    0402_CAPACITOR           263.779       220.476       360      ""                                        
+C5         0.1u                  TopLayer    0402_CAPACITOR           -297.244      157.483       360      ""                                        
+C6         1.0u                  TopLayer    0402_CAPACITOR           -338.579      -35.433       270      ""                                        
+C7         2.2u                  TopLayer    0402_CAPACITOR           0.000         -362.208      180      ""                                        
+C8         2.2u                  TopLayer    0402_CAPACITOR           259.842       -181.099      360      ""                                        
+C9         2.2u                  TopLayer    0402_CAPACITOR           263.779       23.625        360      ""      
+C10        2.2u                  TopLayer    0402_CAPACITOR           116.269       -129.601      90       ""                   
+C11        47u 805               TopLayer    0805_CAPACITOR           -125.983      27.561        360      ""                                         
+C12        47u 805               TopLayer    0805_CAPACITOR           -51.179       330.710       360      ""                                                               
+L1         XFL4020-472           TopLayer    XGL4020_INDUCTOR         110.236       220.472       270      "Coilcraft XGL4020 Shielded Power Inductor"  
+R1         20mR 1206             TopLayer    1206_RESISTOR            -145.669      -55.118       360      ""                                        
+R2         100R                  TopLayer    0402_RESISTOR            -141.732      -322.834      0        ""                                        
+R3         10k                   TopLayer    0402_RESISTOR            141.750       -322.834      360      ""                                        
+R4         10k                   TopLayer    0402_RESISTOR            -267.716      -35.433       270      ""                                        
+R5         10k                   TopLayer    0402_RESISTOR            -267.716      -102.362      90       ""        
+R6         10k                   TopLayer    0402_RESISTOR            -238.189      169.291       270      ""                                                   
+R7         51k                   TopLayer    0402_RESISTOR            -153.543      94.488        180      ""       
+R8         100k                  TopLayer    0402_RESISTOR            -145.583      -149.606      180      ""                                   
+R9         100k                  TopLayer    0402_RESISTOR            -238.189      102.362       270      ""                                        
+R10        100k                  TopLayer    0402_RESISTOR            145.591       -181.102      360      ""                
+R11        100k                  TopLayer    0402_RESISTOR            -145.583      -181.102      360      ""                                                        
+R12        249k                  TopLayer    0402_RESISTOR            -90.551       129.921       180      ""                                        
+R13        392k                  TopLayer    0402_RESISTOR            -303.150      -35.433       90       ""                                        
+Q1         SiSF02DN              TopLayer    POWERPAK_1212-8S_CD      129.921       15.748        180      "Common Drain Dual N-Channel Mosfet"
+U1         TPS63020DSJR          TopLayer    VSON14_DSJ_4X3MM         -78.740       220.472       360      "4A Synchronous Buck Boost Converter TI"  
+U2         ATTINY1634-MU-ND      TopLayer    QFN_20M1                 0.000         -240.157      0        "8-bit Atmel tinyAVR 16kB Flash"          
+U3         LTC2066ISC6#TRMPBF    TopLayer    SC70-6                   -305.118      70.866        360      "SC70-6 Op Amp with Shutdown"             
+U4         MCP9700AT-E/LT        TopLayer    SC70-5                   271.654       129.921       360      "Low-Power Linear Active Thermistor IC"   
+U5         TPS70625DBVR          TopLayer    SOT23-5                  283.465       -78.740       180      "TPS706 SOT23-5 Regulator"                 
+U6         MIC5019YFT-TR         TopLayer    QFN4_FT_MICREL           168.216       -129.601      270      "High Side N-FET Driver with Charge Pump" 
