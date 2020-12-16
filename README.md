@@ -10,3 +10,5 @@ For more information: www.loneceans.com/labs/
 Anduril by TK: https://launchpad.net/flashlight-firmware
 
 Community thread: http://budgetlightforum.com/node/71616
+
+![OSH](https://i1.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png)
